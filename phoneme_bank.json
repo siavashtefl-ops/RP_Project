@@ -1,0 +1,102 @@
+{
+    "iː": {
+        "baseline_f1": 284.2,
+        "baseline_f2": 2908.3,
+        "baseline_dur": 0.48
+    },
+    "ɪ": {
+        "baseline_f1": 397.2,
+        "baseline_f2": 1128.8,
+        "baseline_dur": 0.408
+    },
+    "e": {
+        "baseline_f1": 989.6,
+        "baseline_f2": 2281.3,
+        "baseline_dur": 0.488
+    },
+    "æ": {
+        "baseline_f1": 1092.8,
+        "baseline_f2": 1751.8,
+        "baseline_dur": 0.432
+    },
+    "ɑː": {
+        "baseline_f1": 1169.1,
+        "baseline_f2": 1360.3,
+        "baseline_dur": 0.44
+    },
+    "ɒ": {
+        "baseline_f1": 907.5,
+        "baseline_f2": 1298.4,
+        "baseline_dur": 0.416
+    },
+    "ɔː": {
+        "baseline_f1": 516.5,
+        "baseline_f2": 870.6,
+        "baseline_dur": 0.48
+    },
+    "ʊ": {
+        "baseline_f1": 402.1,
+        "baseline_f2": 1809.7,
+        "baseline_dur": 0.44
+    },
+    "uː": {
+        "baseline_f1": 1144.9,
+        "baseline_f2": 2458.0,
+        "baseline_dur": 0.456
+    },
+    "ʌ": {
+        "baseline_f1": 860.4,
+        "baseline_f2": 1573.2,
+        "baseline_dur": 0.584
+    },
+    "ɜː": {
+        "baseline_f1": 945.8,
+        "baseline_f2": 1834.6,
+        "baseline_dur": 0.504
+    },
+    "ə": {
+        "baseline_f1": 236.7,
+        "baseline_f2": 1440.4,
+        "baseline_dur": 0.416
+    },
+    "eɪ": {
+        "baseline_f1": 303.3,
+        "baseline_f2": 2783.9,
+        "baseline_dur": 0.472
+    },
+    "aɪ": {
+        "baseline_f1": 443.9,
+        "baseline_f2": 2583.3,
+        "baseline_dur": 0.512
+    },
+    "ɔɪ": {
+        "baseline_f1": 300.6,
+        "baseline_f2": 2479.4,
+        "baseline_dur": 0.504
+    },
+    "əʊ": {
+        "baseline_f1": 356.3,
+        "baseline_f2": 1494.8,
+        "baseline_dur": 0.448
+    },
+    "aʊ": {
+        "baseline_f1": 371.8,
+        "baseline_f2": 1120.9,
+        "baseline_dur": 0.44
+    },
+    "ɪə": {
+        "baseline_f1": 468.4,
+        "baseline_f2": 2202.7,
+        "baseline_dur": 0.392
+    },
+    "eə": {
+        "baseline_f1": 746.5,
+        "baseline_f2": 1723.4,
+        "baseline_dur": 0.552
+    },
+    "ʊə": {
+        "baseline_f1": 376.9,
+        "baseline_f2": 1059.7,
+        "baseline_dur": 0.424
+    }
+}

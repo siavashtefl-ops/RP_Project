@@ -1,0 +1,6 @@
+streamlit
+praat-parselmouth
+numpy
+edge-tts
+eng-to-ipa
+audio-recorder-streamlit
