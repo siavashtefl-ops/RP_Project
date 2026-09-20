@@ -98,5 +98,125 @@
         "baseline_f1": 376.9,
         "baseline_f2": 1059.7,
         "baseline_dur": 0.424
+    },
+    "p": {
+        "baseline_f1": 621.5,
+        "baseline_f2": 2228.5,
+        "baseline_dur": 0.392
+    },
+    "b": {
+        "baseline_f1": 479.2,
+        "baseline_f2": 2536.9,
+        "baseline_dur": 0.368
+    },
+    "t": {
+        "baseline_f1": 473.3,
+        "baseline_f2": 2424.7,
+        "baseline_dur": 0.352
+    },
+    "d": {
+        "baseline_f1": 480.5,
+        "baseline_f2": 2383.5,
+        "baseline_dur": 0.328
+    },
+    "k": {
+        "baseline_f1": 984.9,
+        "baseline_f2": 1749.2,
+        "baseline_dur": 0.448
+    },
+    "g": {
+        "baseline_f1": 808.2,
+        "baseline_f2": 1673.8,
+        "baseline_dur": 0.408
+    },
+    "tʃ": {
+        "baseline_f1": 922.8,
+        "baseline_f2": 2306.2,
+        "baseline_dur": 0.4
+    },
+    "dʒ": {
+        "baseline_f1": 972.1,
+        "baseline_f2": 1712.0,
+        "baseline_dur": 0.384
+    },
+    "f": {
+        "baseline_f1": 914.5,
+        "baseline_f2": 1764.6,
+        "baseline_dur": 0.424
+    },
+    "v": {
+        "baseline_f1": 858.8,
+        "baseline_f2": 1636.5,
+        "baseline_dur": 0.408
+    },
+    "θ": {
+        "baseline_f1": 265.5,
+        "baseline_f2": 1606.0,
+        "baseline_dur": 0.392
+    },
+    "ð": {
+        "baseline_f1": 899.6,
+        "baseline_f2": 2260.7,
+        "baseline_dur": 0.392
+    },
+    "s": {
+        "baseline_f1": 412.7,
+        "baseline_f2": 2628.4,
+        "baseline_dur": 0.4
+    },
+    "z": {
+        "baseline_f1": 435.5,
+        "baseline_f2": 2542.5,
+        "baseline_dur": 0.384
+    },
+    "ʃ": {
+        "baseline_f1": 376.3,
+        "baseline_f2": 2304.9,
+        "baseline_dur": 0.424
+    },
+    "ʒ": {
+        "baseline_f1": 272.3,
+        "baseline_f2": 1413.5,
+        "baseline_dur": 0.536
+    },
+    "h": {
+        "baseline_f1": 798.4,
+        "baseline_f2": 1798.8,
+        "baseline_dur": 0.416
+    },
+    "m": {
+        "baseline_f1": 1103.1,
+        "baseline_f2": 1820.6,
+        "baseline_dur": 0.384
+    },
+    "n": {
+        "baseline_f1": 1151.1,
+        "baseline_f2": 1955.6,
+        "baseline_dur": 0.264
+    },
+    "ŋ": {
+        "baseline_f1": 364.3,
+        "baseline_f2": 2758.5,
+        "baseline_dur": 0.328
+    },
+    "l": {
+        "baseline_f1": 856.4,
+        "baseline_f2": 2411.5,
+        "baseline_dur": 0.368
+    },
+    "r": {
+        "baseline_f1": 909.4,
+        "baseline_f2": 2461.6,
+        "baseline_dur": 0.352
+    },
+    "j": {
+        "baseline_f1": 910.3,
+        "baseline_f2": 2209.3,
+        "baseline_dur": 0.416
+    },
+    "w": {
+        "baseline_f1": 770.7,
+        "baseline_f2": 1436.6,
+        "baseline_dur": 0.416
     }
 }
